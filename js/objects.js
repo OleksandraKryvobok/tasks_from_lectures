@@ -169,11 +169,11 @@
 Кількість властивостей в об'єкті 
 */
 
-const x = {
-    a: 1,
-    b: 2,
-    c: 50,
-    d: 100,
-}
+// const x = {
+//     a: 1,
+//     b: 2,
+//     c: 50,
+//     d: 100,
+// }
 
-console.log(Object.keys(x).length);
+// console.log(Object.keys(x).length);

@@ -1,0 +1,30 @@
+.counter {
+    display: flex;
+    align-items: center;
+    padding: 10px 10px;
+}
+
+.js-value {
+    font-size: 40px;
+    font-weight: 700;
+
+    margin: 0 20px; 
+}
+
+.js-increment,
+.js-decrement {
+    height: 40px;
+    border-radius: 10px;
+}
+
+.js-decrement {
+    background-color: rgb(249, 94, 94);
+    border-color: rgb(249, 94, 94);
+}
+
+.js-increment {
+    background-color: rgb(98, 216, 89);
+    border-color: rgb(98, 216, 89);
+}
+
+
